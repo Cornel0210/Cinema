@@ -1,0 +1,13 @@
+The Curse of the Black Pearl, 40, true
+Dead Man's Chest, 12, true
+At World's End, 28, true
+On Stranger Tides, 12.49, true
+Dead Men Tell No Tales, 29.99, true
+The Fellowship of the Ring, 10, false
+The Two Towers, 11, false
+The Return of the King, 13, false
+Dune, 29.89, true
+Dune II, 45, false
+In time, 5.49, false
+Boyka: Undisputed, 3, true
+Never Back Down, 12.1, true
